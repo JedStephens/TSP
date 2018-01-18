@@ -1,6 +1,5 @@
 % Main Script
 %
-% Author:  Group 4
 % Date:    13/11/17
 % Course:  Prescriptive Analytics with Mathematical Programming
 % 
