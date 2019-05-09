@@ -12,7 +12,7 @@ In this case, two approaches are compared:
 
 Whereas the Assignment Problem Relaxation allows for subtours to be created, the DFJ algorithm constraints the creation of subtours, building a full solution to the problem.
 
-### To do
+## TO DO
 - [x] Optimise, clean and refactor Matlab Code
 - [ ] Add documentation
 - [ ] Translate + refactor + CLI development in Python for user integration
